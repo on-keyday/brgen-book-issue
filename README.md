@@ -1,5 +1,5 @@
 # brgen-book-issue
-brgenで作る楽々プロトコル・スタックの誤字脱字等issue報告用リボジトリ
+[brgenで作る楽々プロトコル・スタック](https://techbookfest.org/product/rg6Y8rm2N2nVD4bkqBVv6i)の誤字脱字等issue報告用リボジトリ
 
 ## 報告方法
 
